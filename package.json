@@ -1,6 +1,6 @@
 
 {
-  "name": "michelle-animated-portfolio",
+  "name": "michelle-clean-portfolio",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -8,10 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
+    "next": "15.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "^3.4.0",
     "lucide-react": "^0.270.0",
-    "framer-motion": "^11.0.0"
+    "framer-motion": "^11.18.2"
   }
 }
